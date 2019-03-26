@@ -1,0 +1,11 @@
+The name example is reserved by the Internet Engineering Task Force (IETF) in RFC 2606 (June 1999) as a domain name that may not be installed as a top-level domain in the Domain Name System (DNS) of the Internet.[1]
+
+Contents
+1	Reserved DNS names
+2	Purpose
+3	See also
+4	References
+Reserved DNS names
+In 1999, the Internet Engineering Task Force reserved the DNS labels example, invalid, localhost, and test so that they may not be installed into the root zone of the Domain Name System.
+
+The reason for reservation of these top-level domain names is to reduce the likelihood of conflict and confusion.[1] This allows the use of these names for either documentation purposes or in local testing scenarios.
